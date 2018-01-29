@@ -19,7 +19,7 @@ module.exports = {
         {
             "key"         : "apiKey",
             "name"        : "API Key",
-            "description" : "DNSDB API key",
+            "description" : "AlienVaultOTX API key",
             "default"     : "default value",
             "type"        : "text",
             "userCanEdit" : false,
@@ -28,7 +28,7 @@ module.exports = {
         {
             "key"         : "blacklist",
             "name"        : "Blacklist Domains",
-            "description" : "List of domains that you never want to send to DNSDB",
+            "description" : "List of domains that you never want to send to AlienVaultOTX",
             "default"     : "default value",
             "type"        : "text",
             "userCanEdit" : false,
